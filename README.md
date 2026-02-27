@@ -34,7 +34,8 @@ Creo que a pesar de entender la programación funcional es necesario reforzar es
 
 ### Semana 5
 #### ¿Qué entendía mal?
-
+Entendía de manera incorrecta todo el tema de las historias de usuario y cómo añadir tareas a las épicas
 #### ¿Qué entiendo ahora?
-
+Entiendo que las historias de usuario son importantes y que tengo que realizarlas siempre que vaya a empezar un sprint para dejar las cosas claras sobre todo al momento de proponer objetivos
 #### ¿Qué me falta reforzar? 
+Me falta reforzar todo el tema de la creación de actividades relacionadas y secundarias, tambien teniendo en cuenta darle a cada tarea un usuario ya que es algo que tiendo a olvidar
