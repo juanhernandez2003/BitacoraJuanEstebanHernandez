@@ -26,17 +26,23 @@
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;git-widget-placeholder&quot;: &quot;feature/Semana2__Ejercicio1&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "feature/Semana2__Ejercicio1",
+    "last_opened_file_path": "C:/Users/USUARIO/BitacoraJuanEstebanHernandez/Semana3",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USUARIO\BitacoraJuanEstebanHernandez\Semana3" />
+      <recent name="C:\Users\USUARIO\BitacoraJuanEstebanHernandez\Semana3\Ejercicio1" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\USUARIO\BitacoraJuanEstebanHernandez\Semana3" />
       <recent name="C:\Users\USUARIO\BitacoraJuanEstebanHernandez\Semana1\EjerciciosDeTarea\Ejercicio1" />
       <recent name="C:\Users\USUARIO\BitacoraJuanEstebanHernandez\Semana2" />
-      <recent name="C:\Users\USUARIO\BitacoraJuanEstebanHernandez\Semana3" />
     </key>
   </component>
   <component name="TaskManager">
