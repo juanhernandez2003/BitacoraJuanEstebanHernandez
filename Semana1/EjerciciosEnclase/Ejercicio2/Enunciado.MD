@@ -1,0 +1,1 @@
+# Dada una lista de palabras, se requiere: Filtrar las palabras que tengan mas de 4 caracteres, convertirlas en Mayusculas, ordenarlas alfabeticamente y obtener la cantidad total de palabras resultantes
