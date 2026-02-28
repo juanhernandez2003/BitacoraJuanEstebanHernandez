@@ -10,11 +10,11 @@ Creo que a pesar de entender la programación funcional es necesario reforzar es
 
 ### Semana 2
 #### ¿Qué entendía mal?
-
+Antes veía los patrones de diseño como una forma enredada y complicada de resolver problemas y que prefería programar como me saliera sin ningun tipo de parámetro ni regla, o sin cumplir con los principios SOLID.
 #### ¿Qué entiendo ahora?
-
+Ahora entiendo la importancia de las buenas prácticas, de manejar un sistema con sentido y organizado que fue hecho justamente para hacer los trabajos de manera mas sencilla o al menos en el contexto de los problemas con los que me enfrento ahora.
 #### ¿Qué me falta reforzar? 
-
+Sin duda sigue siendo todo un proceso el hecho de aprender como funciona cada patrón de diseño y es necesario reforzar cada una de las implementaciones de lo visto esta semana ya que es distinto saber lo que hace a implementarlo por mi mismo.
 
 ### Semana 3
 #### ¿Qué entendía mal?
