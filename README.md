@@ -18,11 +18,11 @@ Sin duda sigue siendo todo un proceso el hecho de aprender como funciona cada pa
 
 ### Semana 3
 #### ¿Qué entendía mal?
-
+En la continuación de los patrones de diseño consideraba que era innecesario aprenderme todos los patrones, con unos pocos que supiera implementar iba a ser suficiente. 
 #### ¿Qué entiendo ahora?
-
+Ahora entiendo que cada uno tiene su función y que básicamente hay algunos patrones que en contextos específicos no sirven para nada y otros que son muy propicios por lo que estaba equivocado.
 #### ¿Qué me falta reforzar? 
-
+Me falta reforzar la parte de ciertos patrones de diseño que no logro implementar bien a pesar que en el papel parece que entiendo lo que hacen, como por ejemplo el patrón Iterator, el cual me parece difícil de entender por el momento pero que con la práctica voy a lograr manejar de la manera correcta.
 
 ### Semana 4
 #### ¿Qué entendía mal?
