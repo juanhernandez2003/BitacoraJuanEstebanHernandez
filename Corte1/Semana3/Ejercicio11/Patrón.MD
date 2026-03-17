@@ -1,0 +1,2 @@
+### Patrón Comportamiento
+## Strategy

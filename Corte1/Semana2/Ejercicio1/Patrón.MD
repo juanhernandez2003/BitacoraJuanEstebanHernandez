@@ -1,0 +1,2 @@
+### Patrón Creacional
+## Factory Method

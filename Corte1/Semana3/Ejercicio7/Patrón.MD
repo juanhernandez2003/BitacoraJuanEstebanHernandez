@@ -1,0 +1,2 @@
+### Patrón Estructural
+## Decorador

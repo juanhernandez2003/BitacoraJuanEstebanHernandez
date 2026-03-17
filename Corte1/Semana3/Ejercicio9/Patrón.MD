@@ -1,0 +1,2 @@
+### Patrón Comportamental
+## Command
